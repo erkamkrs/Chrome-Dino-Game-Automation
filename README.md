@@ -1,5 +1,5 @@
 # Chrome Dino Game Automation
-![alt text](https://github.com/erkamkrs/Chrome-Dino-Game-Automation/blob/master/static/images/screenshot.png)
+![alt text](https://github.com/erkamkrs/Chrome-Dino-Game-Automation/blob/master/screenshot.png)
 
 
 ## Description
